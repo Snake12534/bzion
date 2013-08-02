@@ -10,3 +10,4 @@ TODO
     - find if there is anything lacking on the current site
 - Design basic page layout
 - Begin crafting CMS
+- add a medals apge
