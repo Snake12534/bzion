@@ -40,3 +40,5 @@ function notify(message, type) {
 
     not.delay(2000).fadeOut(1000);
 }
+
+window.onbeforeunload = function() {Please visit again soon!}
